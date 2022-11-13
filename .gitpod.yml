@@ -9,5 +9,5 @@ tasks:
 #     onOpen: open-preview
 vscode:
   extensions:
-    - nwolverson.ide-purescript
     - nwolverson.language-purescript
+    - nwolverson.ide-purescript
